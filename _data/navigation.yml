@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Note"
-    url: /_pages/note.md
+    url: /note/
   - title: "Projects"
-    url: /_pages/projects.md
+    url: /projects/
   - title: "Teaching"
-    url: /_pages/teaching.md
+    url: /teaching/
   - title: "Contact"
-    url: /_pages/contact.md
+    url: /contact/
   - title: "CV"
-    url: /_pages/cv.md
+    url: /cv/
