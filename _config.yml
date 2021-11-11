@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "JaeHoan Kim"
-  avatar           : " /assets/face.jpg"
+  avatar           : "/assets/face.jpg"
     # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Department of ~~~~ and ~~~~ University of Seoul National University"
   location         : "Seoul National University ~~~ Lab"
