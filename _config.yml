@@ -24,9 +24,12 @@ description              : "An amazing website."
 url                      : "https://jaehoankim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JaeHoanKim/JaeHoanKim.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "JaeHoan Kim"# overrides the website title displayed in the masthead, use " " for no title
+teaser                   : "/assets/images/500x300.png"
+  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/88x88.png"
+  # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "JaeHoan Kim"
+  # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -35,7 +38,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:                 https://developers.facebook.com/docs/plugins/comments
+  facebook:                 "https://developers.facebook.com/docs/plugins/comments"
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
