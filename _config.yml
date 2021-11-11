@@ -24,7 +24,7 @@ description              : "Student of SNU, fdfadf of dfdfsfdjsf"
 url                      : "https://jaehoankim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JaeHoanKim/JaeHoanKim.github.io"
-teaser                   : "/assets/face.jpg"
+teaser                   : #"/assets/face.jpg"
   # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/face.jpg"
   # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "JaeHoan Kim"
-  avatar           : " /assets/images/bio-photo.jpg"
+  avatar           : " /assets/face.jpg"
     # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Department of ~~~~ and ~~~~ University of Seoul National University"
   location         : "Seoul National University ~~~ Lab"
