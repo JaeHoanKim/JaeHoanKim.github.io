@@ -4,4 +4,6 @@ title: "CV"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: true
 ---
-## Bye~~~
+## CV
+
+Click here to find my complete CV.
