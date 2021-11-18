@@ -4,6 +4,8 @@ title: "Publications"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: true
 ---
-## Publication
+## Working Paper
+
+## Accepted Paper 
 
 Identifiability - arxiv.org
