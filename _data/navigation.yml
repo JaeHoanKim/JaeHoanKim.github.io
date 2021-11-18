@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Note"
-    url: /note/
+  - title: "Honors & Awards"
+    url: /honors_awards/
   - title: "Projects"
     url: /projects/
   - title: "Teaching"
     url: /teaching/
-  - title: "Contact"
-    url: /contact/
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
     url: /cv/
