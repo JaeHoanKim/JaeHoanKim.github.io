@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 include: ["_pages"]
 # Site Settings
 locale                   : "en-US"
-title                    : "JaeHoan Kim"
+title                    : "Jaehoan Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JaeHoan Kim"
@@ -28,7 +28,7 @@ teaser                   : #"/assets/face.jpg"
   # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/face.jpg"
   # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "JaeHoan Kim"
+masthead_title           : "Jaehoan Kim"
   # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,7 +107,7 @@ author:
   name             : "JaeHoan Kim"
   avatar           : "/assets/face.jpg"
     # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Department of ~~~~ and ~~~~ University of Seoul National University"
+  bio              : "Department of Mechanical Engineering (double major: Statistics) Seoul National University"
   location         : "Seoul National University ~~~ Lab"
   email            : "k1mjh6561@snu.ac.kr"
   links:
