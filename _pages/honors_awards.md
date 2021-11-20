@@ -8,23 +8,24 @@ toc: true
 ## Awards
 
 <ul>
-	<li>39<sup>th</sup> University Students Contest of Mathematics
+	<li>39<sup>th</sup> University Students Contest of Mathematics\
 	
-	<font size = "10">*Korean Mathematical Society*, Nov. 2020</font>
+	<font size = "1">*Korean Mathematical Society*, Nov. 2020</font>\
 
 	Grand Prize (1<sup>st</sup> place)</li>
 
-	<li>38<sup>th</sup> University Students Contest of Mathematics
+	<li>38<sup>th</sup> University Students Contest of Mathematics\
 	
-	<font size = "10">*Korean Mathematical Society*, Nov. 2019</font>
+	<font size = "1">*Korean Mathematical Society*, Nov. 2019</font>\
 	
 	Gold Prize (2<sup>nd</sup> place)</li>
 
-	<font size = "10"><li>31<sup>th</sup> Korean Mathematics Competition</font>
+	<li>31<sup>th</sup> Korean Mathematics Competition\
 	
-	*Korean Society of Mathematical Education*, Nov. 2015
+	<font size = "1">*Korean Society of Mathematical Education*, Nov. 2015</font>\
 	
 	Grand Prize (1<sup>st</sup> place)</li>
+	
 </ul>
 
 ## Honors
