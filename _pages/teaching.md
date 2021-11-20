@@ -8,26 +8,30 @@ toc: true
 ## Teaching Experience
 <ul>
 <li> 
-Mathematical Statistics</br>
+Mathematical Statistics 2 <br >
 
 <font size = "2"> 
+326.312 <br/>
 <em>Seoul National University</em>, Sep. 2021 - Present </font> <br />
 
 <font size = "3"> - Hosted 10+ tutoring sessions in Mathematical Statistics 2, a requisite course for juniors </font>
 </li>
 
 <li>
-Dynamics and Fluid Mechanics</br>
-
-<font size = "2"> <em>Seoul National University</em>, Sep. 2020 - Feb. 2021 </font> <br />
+Dynamics and Fluid Mechanics <br />
+<font size = "2"> 
+M2794.001200, M2794.001300 <br />
+<em>Seoul National University</em>, Sep. 2020 - Feb. 2021 </font> <br />
 
 <font size = "3">- Hosted 10+ tutoring sessions in Dynamics and Fluid Mechanics, a requisite course for juniors </font>
 </li>
 
 <li> 
-Mathematics (Calculus & Linear Algebra)</br>
+Mathematics (Calculus & Linear Algebra) <br >
 
-<font size = "2"> <em>Seoul National University</em>, Jan. 2020 - Feb. 2020 </font> <br />
+<font size = "2"> 
+003.001 <br />
+<em>Seoul National University</em>, Jan. 2020 - Feb. 2020 </font> <br />
 
 <font size = "3">- Assisted 10 freshmen with 5+ assignments and comments about mathematics course </font>
 </li>
