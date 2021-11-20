@@ -8,7 +8,7 @@ toc: true
 ## Teaching Experience
 <ul>
 <li> 
-Mathematical Statistics 2 <br >
+Mathematical Statistics 2,
 
 <font size = "2"> 
 326.312 <br/>
@@ -18,7 +18,7 @@ Mathematical Statistics 2 <br >
 </li>
 
 <li>
-Dynamics and Fluid Mechanics <br />
+Dynamics and Fluid Mechanics,
 <font size = "2"> 
 M2794.001200, M2794.001300 <br />
 <em>Seoul National University</em>, Sep. 2020 - Feb. 2021 </font> <br />
@@ -27,7 +27,7 @@ M2794.001200, M2794.001300 <br />
 </li>
 
 <li> 
-Mathematics (Calculus & Linear Algebra) <br >
+Mathematics (Calculus & Linear Algebra),
 
 <font size = "2"> 
 003.001 <br />
