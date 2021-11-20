@@ -12,19 +12,19 @@ toc: true
 	
 	<font size = "3"> <em> Korean Mathematical Society</em>, Nov. 2020</font> <br />
 
-	Grand Prize (1<sup>st</sup> place)</li>
+	- Grand Prize (1<sup>st</sup> place)</li>
 
 	<li>38<sup>th</sup> University Students Contest of Mathematics <br />
 	
 	<font size = "3"> <em> Korean Mathematical Society</em>, Nov. 2019</font> <br />
 	
-	Gold Prize (2<sup>nd</sup> place)</li>
+	- Gold Prize (2<sup>nd</sup> place)</li>
 
 	<li>31<sup>th</sup> Korean Mathematics Competition <br />
 	
 	<font size = "3"> <em> Korean Society of Mathematical Education</em>, Nov. 2015</font> <br />
 	
-	Grand Prize (1<sup>st</sup> place)</li>
+	- Grand Prize (1<sup>st</sup> place)</li>
 	
 </ul>
 
