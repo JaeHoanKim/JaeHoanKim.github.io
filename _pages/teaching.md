@@ -7,20 +7,20 @@ toc: true
 
 ## Teaching Experience
 
-### Mathematical Statistics 2, 
+### Mathematical Statistics 2
 
-*Seoul National University*, Sep. 2021 - Present
+<font size = "3"> <em>Seoul National University</em>, Sep. 2021 - Present </font> <br />
 
-- Hosted 10+ tutoring sessions in Mathematical Statistics 2, a requisite course for juniors
+<font size = "5"> - Hosted 10+ tutoring sessions in Mathematical Statistics 2, a requisite course for juniors </font>
 
 ### Dynamics and Fluid Mechanics
 
-*Seoul National University*, Sep. 2020 - Feb. 2021
+<font size = "3"> <em>Seoul National University</em>, Sep. 2020 - Feb. 2021 </font> <br />
 
-- Hosted 10+ tutoring sessions in Dynamics and Fluid Mechanics, a requisite course for juniors
+<font size = "5">- Hosted 10+ tutoring sessions in Dynamics and Fluid Mechanics, a requisite course for juniors </font>
 
 ### Mathematics (Calculus & Linear Algebra)
 
-*Seoul National University*, Jan. 2020 - Feb. 2020
+<font size = "3"> <em>Seoul National University</em>, Jan. 2020 - Feb. 2020 </font> <br />
 
-- Assisted 10 freshmen with 5+ assignments and comments about mathematics course
+<font size = "5">- Assisted 10 freshmen with 5+ assignments and comments about mathematics course </font>
