@@ -7,17 +7,21 @@ toc: true
 
 ## Awards
 
-39th University Students Contest of Mathematics, Korean Mathematical Society 
-Grand Prize (1st place)
+<ul>
+	<li>39<sup>th</sup> University Students Contest of Mathematics, Korean Mathematical Society 
 
-38th University Students Contest of Mathematics, Korean Mathematical Society
-Gold Prize (2nd place)
+	Grand Prize (1<sup>st\</sup> place)</li>
 
-31th Korean Mathematics Competition, Korean Society of Mathematical Education
-Grand Prize (1st place)
+	<li>38t<sup>th</sup>University Students Contest of Mathematics, Korean Mathematical Society
+	Gold Prize (2<sup>nd</sup> place)</li>
+
+	<li>31<sup>th</sup> Korean Mathematics Competition, Korean Society of Mathematical Education
+	Grand Prize (1<sup>st</sup> place)</li>
+</ul>
 
 ## Honors
 
+<ul>
 SNU Engineering Honor Society (STEM), Seoul National University
 Used to be Recruiting chief, currently member of STEM
 
@@ -26,5 +30,6 @@ Currently Deputy head in Strategy & Planning 1 Dpt.
 
 Hyunsong Education & Culture Foundation
 Merit–based scholarship
+</ul>
 
 
