@@ -8,5 +8,5 @@ toc: true
 
 ## Accepted Paper 
 
-<font size = "3">1. **Jaehoan Kim**, Jaeyong Lee,“Identifiability of Covariance Kernels in the Gaussian Process Regression
+<font size = "3">1. <strong>Jaehoan Kim</strong>, Jaeyong Lee,“Identifiability of Covariance Kernels in the Gaussian Process Regression
 Model”, Accepted, <em>Journal of the Korean data & information Science Society </em>, https://arxiv.org/abs/2108.04715 </font>
