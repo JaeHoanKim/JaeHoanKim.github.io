@@ -5,20 +5,34 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: true
 ---
 
+<ul>
 ## Xcorps
 
-## KBrainLab
-
-* Startup which provides Korean lottery number recommendation service, to increase the expected value of the lottery for our customers, in a group sense. 
+<li> KBrainLab
+<font size = "3">
+* Startup which provides Korean lottery number recommendation service, to increase the expected value of the lottery for our customers, in a group sense. </br>
 * Devised and substantiated the algorithm without utilizing ad hoc pattern as a chief technical officer/co-founder.
-## Time series Analysis - ....
+</font>
+</li>
 
-## Data mining LAB - ....
+<li> Time series Analysis -
 
-## Identifiability in ...
+ ...
 
-* Conducted Independent research in Bayesian Statistics Lab
+ </li>
 
-* Accepted in the Journal of Korean Data & Information Society (JKDIS). Link here
+<li>Data mining LAB - ....
+</li>>
 
-## High dimensional  classification!
+<li> Identifiability in ...
+<font size = "3">
+Conducted Independent research in Bayesian Statistics Lab </br>
+
+Accepted in the Journal of Korean Data & Information Society (JKDIS). Link here
+</font>
+</li>
+
+<li>High dimensional  classification!
+
+</li>
+</ul>
