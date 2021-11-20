@@ -10,7 +10,7 @@ toc: true
 
 <li> KBrainLab <br >
 <font size = "2">
-* Startup which provides Korean lottery number recommendation service, to increase the expected value of the lottery for our customers, in a group sense. </br>
+* Startup which provides Korean lottery number recommendation service, to increase the expected value of the lottery for our customers, in a group sense. <br />
 * Devised and substantiated the algorithm without utilizing ad hoc pattern as a chief technical officer / co-founder.
 </font>
 </li>
