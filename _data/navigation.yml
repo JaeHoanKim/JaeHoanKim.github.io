@@ -3,7 +3,7 @@ main:
   - title: "Honors & Awards"
     url: /honors_awards/
   - title: "Projects"
-    url: /projects/
+    url: /_posts/
   - title: "Teaching"
     url: /teaching/
   - title: "Publications"
