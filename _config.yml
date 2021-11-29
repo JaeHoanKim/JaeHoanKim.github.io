@@ -297,9 +297,9 @@ defaults:
       type: posts
     values:
       layout: single
-      # author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      author_profile: true
+      read_time: false
+      comments: #true
+      share: false
       related: true
-      show_date: true
+      show_date: false
