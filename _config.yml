@@ -117,12 +117,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com"
@@ -133,12 +133,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "k1mjh6561@snu.ac.kr"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "k1mjh6561@snu.ac.kr"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com"
@@ -291,3 +291,15 @@ defaults:
       comments: # true
       share: false
       related: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      # author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: true
