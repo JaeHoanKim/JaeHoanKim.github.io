@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "High dimension classification"
 ---
 #Hello

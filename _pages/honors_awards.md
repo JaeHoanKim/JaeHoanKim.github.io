@@ -2,7 +2,7 @@
 permalink: /honors_awards/
 title: "Honors & Awards"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-toc: false
+toc: true
 ---
 
 ## Awards
