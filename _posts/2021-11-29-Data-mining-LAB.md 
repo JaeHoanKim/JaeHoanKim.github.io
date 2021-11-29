@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data mining LAB"
-categories: 
-- project
+toc: true
+toc_sticky: true
 ---
 #Hello
