@@ -7,3 +7,4 @@ toc: true
 ## Curriculum Vitae
 
 Click here to find my complete CV.
+(complete CV)[assets/CV_JaehoanKim.pdf]
