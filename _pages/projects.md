@@ -1,11 +1,12 @@
 ---
 permalink: /projects/
+layout: posts
 title: "Projects"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-toc: true
+toc: false
 ---
 
-<ul>
+<!-- <ul>
 <li> Xcorps</li>
 
 <li> KBrainLab <br >
@@ -41,4 +42,4 @@ Accepted in the Journal of Korean Data & Information Society (JKDIS). Link here
 </font>
 
 </li>
-</ul>
+</ul> -->
