@@ -2,7 +2,5 @@
 layout: post
 title:  "Data mining LAB"
 author_profile: true
-toc: true
-toc_sticky: true
 ---
 #Hello
