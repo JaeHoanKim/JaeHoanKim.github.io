@@ -6,5 +6,4 @@ toc: true
 ---
 ## Curriculum Vitae
 
-<!-- Click here to find my complete CV. -->
-<iframe src="/Users/yeon/Developer/blog/JaeHoanKim.github.io/_data/CV_JaehoanKim.pdf" width="100%" height="600px"></iframe>
+[Open CV](https://jaehoankim.github.io/assets/CV_JaehoanKim.pdf)
