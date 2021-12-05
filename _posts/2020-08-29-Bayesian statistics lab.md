@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Identifiability in"
+title:  "Bayesian Statistics Lab."
 author_profile: true
 ---
 
