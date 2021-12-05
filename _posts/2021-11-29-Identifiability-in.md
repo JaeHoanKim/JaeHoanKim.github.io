@@ -3,4 +3,9 @@ layout: post
 title:  "Identifiability in"
 author_profile: true
 ---
-#Hello
+
+## Bayesian Statistics Lab. 2020.08 - 2021.06
+
+	- Revealed and proved about identifiability problem in Mixed Gaussian Process 	Regression Model
+
+    - Experimented and analyzed about thermoconductivity of metals in Bayesian aspect
