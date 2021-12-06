@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 *Startup providing lottery number recommendation service*
+
 ## KBrainLab, 2021.07 - Present
 
 *KBrainLab is a startup which provides a Korean lottery number recommendation service,
