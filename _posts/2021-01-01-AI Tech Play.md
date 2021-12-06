@@ -4,7 +4,7 @@ title:  "AI Tech Play"
 author_profile: true
 ---
 
-
+*AI Educations Brand initially funded by Knowledge AI (KAIT) Foundation*
 
 ## AI Tech Play, 2021.01 - 2021.08
 
