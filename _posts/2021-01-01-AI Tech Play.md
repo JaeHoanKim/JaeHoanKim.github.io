@@ -4,7 +4,7 @@ title:  "AI Tech Play"
 author_profile: true
 ---
 
-## AI Tech Play
+## AI Tech Play, 2021.01 - 2021.08
 
 -	Led the educational material production team to adapt the educational material from MIT Lincoln Laboratory
 for 200+ middle school students in Korea

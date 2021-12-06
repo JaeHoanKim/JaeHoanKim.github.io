@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Time Series Analysis"
+title:  "Data Mining methods and Lab."
 author_profile: true
 ---
 
-2021S Lecture term Project
 
-## Time Series Analysis, 2021.Spring 
+
+2021F Lecture term Project
+
+## Data Mining methods and Lab., 2021.Fall
 
 led the team with the goal of analyzing COVID-19 infection number in group infection
