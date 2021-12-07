@@ -4,6 +4,7 @@ title:  "High-dimensional Multiple Testing Lab"
 author_profile: true
 ---
 
+*High-dimensional Multiple Testing Lab., Seoul National University*
 
 ## High-dimensional Multiple Testing Lab., 2021.06 - Present
 

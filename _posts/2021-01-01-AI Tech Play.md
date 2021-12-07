@@ -8,7 +8,6 @@ author_profile: true
 
 ## AI Tech Play, 2021.01 - 2021.08
 
-
 *AI Tech Play is an AI Educations Brand initially funded by Knowledge AI (KAIT) Foundation based in Boston. Through forming strategic partnerships with organizations across industry and academia, we are delivering Free AI Coding Educations based on MIT Beaver Work's Code Materials.*
 
 
