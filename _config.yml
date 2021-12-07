@@ -104,16 +104,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "JaeHoan Kim"
+  name             : "Jaehoan Kim"
   avatar           : "/assets/face.jpg"
     # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Department of Mechanical Engineering (double major: Statistics) Seoul National University"
-  location         : "Seoul National University ~~~ Lab"
+  location         : "Seoul, Korea"
   email            : "k1mjh6561@snu.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "k1mjh6561@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://your-website.com"
@@ -126,9 +123,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com"
 
 # Site Footer
 footer:
