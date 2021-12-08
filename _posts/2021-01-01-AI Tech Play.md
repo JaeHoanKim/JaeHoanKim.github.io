@@ -16,8 +16,8 @@ for 200+ middle school students in Korea
 
 -	Adapted and assigned the task in the adequate level for middle school students, and uploaded a video for the detailed explanation of given tasks.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/utCzjtSN9Pk&t=700s/0.jpg)](https://www.youtube.com/watch?v=utCzjtSN9Pk&t=700s)
+[![IMAGE ALT TEXT HERE]("/assets/images/ai_tech_play_sol.png")](https://www.youtube.com/watch?v=utCzjtSN9Pk&t=700s)
 
--	Conducted an interview to motivate Korean middle school students (link: [youtube](https://www.youtube.com/watch?v=_GEfOj7DTHY))
+-	Conducted an interview to motivate Korean middle school students
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_GEfOj7DTHY/0.jpg)](https://www.youtube.com/watch?v=_GEfOj7DTHY)
