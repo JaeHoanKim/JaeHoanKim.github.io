@@ -14,8 +14,10 @@ author_profile: true
 -	Led the educational material production team to adapt the educational material from MIT Lincoln Laboratory
 for 200+ middle school students in Korea
 
--	Adapted and assigned the task in the adequate level for middle school students, and uploaded a video for the detailed explanation of given tasks. (link: [youtube](https://www.youtube.com/watch?v=utCzjtSN9Pk&t=700s))
+-	Adapted and assigned the task in the adequate level for middle school students, and uploaded a video for the detailed explanation of given tasks.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/utCzjtSN9Pk&t=700s/0.jpg)](https://www.youtube.com/watch?v=utCzjtSN9Pk&t=700s)
 
--	Conducted an interview to motivate middle school students (link: [youtube](https://www.youtube.com/watch?v=_GEfOj7DTHY))
+-	Conducted an interview to motivate Korean middle school students (link: [youtube](https://www.youtube.com/watch?v=_GEfOj7DTHY))
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_GEfOj7DTHY/0.jpg)](https://www.youtube.com/watch?v=_GEfOj7DTHY)
