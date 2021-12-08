@@ -16,7 +16,12 @@ for 200+ middle school students in Korea
 
 -	Adapted and assigned the task in the adequate level for middle school students, and uploaded a video for the detailed explanation of given tasks.
 
-<a href = "https://www.youtube.com/watch?v=utCzjtSN9Pk&t=700s"><img src = "/assets/images/ai_tech_play_sol.png" alt = "Signal detection Scheme" width="300" height="200"></a>
+**video**
+
+<a href = "https://www.youtube.com/watch?v=utCzjtSN9Pk&t=700s"><img src = "/assets/images/ai_tech_play_sol.png" alt = "solution video" width="400" height="300"></a>
+
 -	Conducted an interview to motivate Korean middle school students
 
-[![](https://img.youtube.com/vi/_GEfOj7DTHY/0.jpg = 300x200)](https://www.youtube.com/watch?v=_GEfOj7DTHY)
+**video**
+
+<a href = "https://www.youtube.com/watch?v=_GEfOj7DTHY"><img src = "https://img.youtube.com/vi/_GEfOj7DTHY/0.jpg" alt = "motivation interview" width="400" height="300"></a>
