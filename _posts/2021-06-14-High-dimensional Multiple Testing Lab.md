@@ -13,3 +13,5 @@ author_profile: true
 - Studied non-parametric mean estimation methods related to Stein’s paradox
 
 - Currently writing thesis paper - suggesting desirable linear classifiers according to data structures in high-dimensional situation
+
+-
