@@ -11,3 +11,5 @@ author_profile: true
 - Revealed and proved about identifiability problem in Mixed Gaussian Process Regression Model
 
 - Experimented and analyzed about thermoconductivity of metals in Bayesian aspect
+
+- Organized and published a paper (*Accepted, Journal of the Korean data & information Science Society*)
