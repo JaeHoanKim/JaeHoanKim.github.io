@@ -12,4 +12,4 @@ author_profile: true
 
 - Experimented and analyzed about thermoconductivity of metals in Bayesian aspect
 
-- Organized and published a paper (*Accepted, Journal of the Korean data & information Science Society*)
+- Organized and published a paper (*Accepted, Journal of the Korean data & information Science Society*. <a href="https://arxiv.org/abs/2108.04715">[Full text]</a>)

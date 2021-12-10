@@ -11,12 +11,15 @@ author_profile: true
 *AI Tech Play is an AI Educations Brand initially funded by Knowledge AI (KAIT) Foundation based in Boston. Through forming strategic partnerships with organizations across industry and academia, we are delivering Free AI Coding Educations based on MIT Beaver Work's Code Materials.*
 
 
--	Led the educational material production team to adapt the educational material from MIT Lincoln Laboratory
-for 200+ middle school students in Korea
+-	Led the Technology Team to deliver free AI education to 200+ middle school students struck by COVID-19
 
--	Adapted and assigned the task in the adequate level for middle school students, and uploaded a video for the detailed explanation of given tasks.
+-   Created a coding education booklet based on the autonomous RACECAR code materials from MIT LincolnLab.
+
+-	Uploaded a video with detailed explanation about tasks in the booklet.
 
 **video**
+
+-   Additional explanation
 
 <a href = "https://www.youtube.com/watch?v=utCzjtSN9Pk&t=700s"><img src = "/assets/images/ai_tech_play_sol.png" alt = "solution video" width="400" height="300"></a>
 
