@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Jaehoan Kim"
 excerpt: "About me"
 author_profile: true
