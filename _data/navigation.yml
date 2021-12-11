@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "about"
+    url: /
   - title: "Honors & Awards"
     url: /honors_awards/
   - title: "Projects"
@@ -10,6 +12,4 @@ main:
     url: /publications/
   - title: "CV"
     url: /cv/
- - title: "about"
-    url: /
 
