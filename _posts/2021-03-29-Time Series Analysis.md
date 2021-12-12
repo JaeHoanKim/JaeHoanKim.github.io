@@ -17,4 +17,4 @@ author_profile: true
 
 - fitted AR-GARCH model and VAR model and conducted change-point analysis
 
-- [final report (written in Korean)](https://jaehoankim.github.io/assets/TSA_final_report(Korean))
+- [final report (written in Korean)](https://jaehoankim.github.io/assets/TSA_final_Korean.pdf)
