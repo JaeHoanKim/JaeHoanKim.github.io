@@ -7,6 +7,9 @@ toc: false
 
 ### Cambodia camp
 
-<video width="320" height="240" controls>
+<video width="720" height="720" controls>
   <source src="assets/cambodia_video.mp4" type="video/mp4">
+</video>
+
+<video id="example_video_1" class="video-js vjs-default-skin" width="720" height="720" src="assets/cambodia_video.mp4" type="video/mp4">
 </video>
