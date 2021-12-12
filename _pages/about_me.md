@@ -11,5 +11,6 @@ toc: false
   <source src="assets/cambodia_video.mp4" type="video/mp4">
 </video>
 
-<video id="example_video_1" class="video-js vjs-default-skin" width="720" height="720" src="assets/cambodia_video.mp4" type="video/mp4">
-</video>
+### try again
+
+<iframe src="assets/cambodia_video.mp4" width="300px" height="300px"></iframe>
