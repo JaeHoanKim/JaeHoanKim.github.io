@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-layout: collection
+layout: posts
 title: "Projects"
 author_profile: true
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
