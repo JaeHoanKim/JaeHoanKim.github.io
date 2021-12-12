@@ -17,13 +17,15 @@ author_profile: true
 
 -	Uploaded a video with detailed explanation about tasks in the booklet.
 
+-	Conducted an interview to motivate Korean middle school students
+
 **video**
 
--   Additional explanation
+-   Additional Explanation
 
 <a href = "https://www.youtube.com/watch?v=utCzjtSN9Pk&t=700s"><img src = "/assets/images/ai_tech_play_sol.png" alt = "solution video" width="400" height="300"></a>
 
--	Conducted an interview to motivate Korean middle school students
+-   Motivational Interview
 
 **video**
 

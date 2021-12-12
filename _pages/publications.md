@@ -6,6 +6,10 @@ toc: false
 ---
 ## Working Paper
 
+<font size = "3">
+- Comparing the performance of linear classifiers in high-dimensional situations according to the combination of various estimation methods of precision matrices and mean vectors
+</font>
+
 ## Accepted Paper 
 
 <font size = "3">
