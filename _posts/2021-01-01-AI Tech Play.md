@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: collection
 title:  "AI Tech Play"
 author_profile: true
 ---

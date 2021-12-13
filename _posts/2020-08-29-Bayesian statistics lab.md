@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: collection
 title:  "Bayesian Statistics Lab."
 author_profile: true
 ---

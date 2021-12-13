@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: collection
 title:  "High-dimensional Multiple Testing Lab"
 author_profile: true
 ---

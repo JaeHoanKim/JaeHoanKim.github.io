@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: collection
 title:  "Time Series Analysis"
 author_profile: true
 ---
