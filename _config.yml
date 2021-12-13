@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 include: ["_pages"]
 # Site Settings
 locale                   : "en-US"
 title                    : "Jaehoan Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JaeHoan Kim"
-description              : "Student of SNU, fdfadf of dfdfsfdjsf"
+name                     : "Jaehoan Kim"
+description              : "Jaehoan Kim: Undergraduate student at Seoul National University"
 url                      : "https://jaehoankim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JaeHoanKim/JaeHoanKim.github.io"
@@ -104,31 +104,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "JaeHoan Kim"
+  name             : "Jaehoan Kim"
   avatar           : "/assets/face.jpg"
     # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Department of Mechanical Engineering (double major: Statistics) Seoul National University"
-  location         : "Seoul National University ~~~ Lab"
+  bio              : "Dept. of Mechanical Engineering (Double major: Statistics) <br/>  Seoul National University"
+  location         : "Seoul, Korea"
   email            : "k1mjh6561@snu.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "k1mjh6561@snu.ac.kr"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://your-website.com"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/jam.hoan/"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   url: "https://facebook.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com"
 
 # Site Footer
 footer:
@@ -139,18 +133,15 @@ footer:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   url: "https://facebook.com"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com"
+      url: "https://instagram.com/jam.hoan/"
 
 
 # Reading Files
@@ -282,7 +273,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
