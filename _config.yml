@@ -273,7 +273,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_collections"
+      path: "collections"
       type: collection
     values:
       layout: single
