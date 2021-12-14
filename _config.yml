@@ -260,6 +260,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+collections: 
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -273,8 +278,8 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "collections"
-      type: collection
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true
