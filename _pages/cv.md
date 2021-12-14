@@ -6,4 +6,4 @@ toc: false
 ---
 ## Curriculum Vitae
 
-[Open CV](https://jaehoankim.github.io/assets/CV_JaehoanKim.pdf)
+[Open CV](https://jaehoankim.github.io/assets/CV_JaehoanKim_211212.pdf)
