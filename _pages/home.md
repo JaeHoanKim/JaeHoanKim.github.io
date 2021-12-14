@@ -1,11 +1,7 @@
 ---
+layout: collection
 permalink: /
-title: "Home"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-toc: false
+hidden: true
 ---
 
-
-HOme
-Home
-HOOOME
+# Hello im home
