@@ -43,7 +43,10 @@ toc: false
  
 <font size = "3">- Currently Deputy head in Strategy & Planning 1 Department</font></li>
 
- <li>Hyunsong Education & Culture Foundation <br />
+ <li>Hyunsong Scholarship <br />
+
+ <em><font size = "2"> Hyunsong Education & Culture Foundation </font></em><br />
+ 
  
 <font size = "3">
 - Merit–based scholarship (USD 6K per year) <br />
