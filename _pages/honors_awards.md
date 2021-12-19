@@ -41,13 +41,13 @@ toc: false
  
 <em><font size = "2"> The National Academy of Engineering of Korea </font></em><br />
  
-<font size = "3">- Currently Deputy head in Strategy & Planning 1 Dept. </font></li>
+<font size = "3">- Currently Deputy head in Strategy & Planning 1 Department</font></li>
 
  <li>Hyunsong Education & Culture Foundation <br />
  
 <font size = "3">
 - Merit–based scholarship (USD 6K per year) <br />
-- Nominated as the representative of the Dept of Engineering in SNU
+- Nominated as the representative of the Department of Engineering in SNU
 
 </font></li>
 
