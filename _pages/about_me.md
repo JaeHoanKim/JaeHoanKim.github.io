@@ -12,6 +12,7 @@ toc: false
 ### Indoor Climbing
 
 Will be uploaded soon!
+
 ### SNU Buddy
 
 Will be uploaded soon!
