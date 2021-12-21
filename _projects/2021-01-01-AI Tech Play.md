@@ -27,6 +27,4 @@ author_profile: true
 
 -   Motivational Interview
 
-**video**
-
 <a href = "https://www.youtube.com/watch?v=_GEfOj7DTHY"><img src = "https://img.youtube.com/vi/_GEfOj7DTHY/0.jpg" alt = "motivation interview" width="400" height="300"></a>
