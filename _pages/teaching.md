@@ -27,7 +27,7 @@ Dynamics and Fluid Mechanics
 </li>
 
 <li> 
-Mathematics (Calculus & Linear Algebra)
+Calculus 1
 
 <font size = "2"> 
 (Course Number: 003.001) <br />
