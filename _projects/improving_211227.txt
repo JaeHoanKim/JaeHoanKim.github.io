@@ -1,0 +1,8 @@
+Projects
+
+1. Xcorps  --ok
+2. Bayesian Statistics Lab.
+3. AI Tech Play --ok
+4. Time series Analysis --ok (일단은, abstract 영어 버전 추가!)
+5. High-dimensional Multiple testing lab. --ok (일단은)
+6. KBrainLab  -- ok

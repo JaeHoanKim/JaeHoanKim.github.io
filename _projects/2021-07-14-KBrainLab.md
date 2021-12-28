@@ -11,8 +11,8 @@ author_profile: true
 *KBrainLab is a startup which provides a Korean lottery number recommendation service,
 to increase the expected value of the lottery for our customers, in a group sense.*
 
-- Developed and validated algorithm improving expected value of lottery customers without utilizing an ad hoc pattern
+- Developed and implemented an algorithm that improved the expected value of lottery customers by 9%
 
-- Formulated algorithm to ensure 100% of winning high-rank lottery in a group aspect
+- Formulated an algorithm to ensure 100% of winning high-rank lottery in a group aspect
 
-- Took an initiative of founding as a Chief Technical Officer / Co-founder.
+- Took an initiative of founding as a Chief Technical Officer / Co-founder

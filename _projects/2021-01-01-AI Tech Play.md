@@ -13,7 +13,7 @@ author_profile: true
 
 -	Led the Technology Team to deliver free AI education to 200+ middle school students struck by COVID-19
 
--   Created a coding education booklet based on the autonomous RACECAR code materials from MIT LincolnLab.
+-   Created a coding education booklet based on the autonomous RACECAR code materials from MIT Lincoln Lab.
 
 -	Uploaded a video with detailed explanation about tasks in the booklet.
 

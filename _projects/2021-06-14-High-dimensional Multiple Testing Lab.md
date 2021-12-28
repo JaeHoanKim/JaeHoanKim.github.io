@@ -10,6 +10,6 @@ author_profile: true
 
 - Studied various estimation methods of precision matrix in high dimensional classification according to its structure assumption
 
-- Studied non-parametric mean estimation methods using Empirical Bayes methods
+- Studied non-parametric mean estimation strategies using Empirical Bayes methods
 
-- Currently writing thesis paper - suggesting desirable linear classifiers according to data structures in high-dimensional situation
+- Currently writing a thesis paper - comparing linear classifiers according to data structures in high-dimensional situation

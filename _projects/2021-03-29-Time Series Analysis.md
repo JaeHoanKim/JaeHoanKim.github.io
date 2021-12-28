@@ -13,8 +13,8 @@ author_profile: true
 
 - Splited confirmed cases into group infection and individual infection, since government policies are mainly focused on controlling group infection.
 
-- Data crawling with python in [KDCA](https://www.kdca.go.kr/index.es?sid=a3) to estimate the number of group infection
+- Analyzed data obtained by data crawling with python in [KDCA](https://www.kdca.go.kr/index.es?sid=a3) to estimate the number of group infection
 
-- fitted AR-GARCH model and VAR model and conducted change-point analysis
+- fitted AR-GARCH model and VAR model and performed change-point analysis
 
 - [final report (written in Korean)](https://jaehoankim.github.io/assets/TSA_final_Korean.pdf)
