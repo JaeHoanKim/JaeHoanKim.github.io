@@ -1,0 +1,121 @@
+---
+title: "Loss of information (Simulation)"
+output: html_document
+---
+
+### 0. Introduction
+
+Throughout the code, we consider two cases that only restricted information is available. In each case, we estimate the mean parameter with the maximum likelihood estimator (MLE). Our ultimate goal is to compare the relative efficiencies of both estimators with the Cramer-Rao bound, which also implies the amount of information loss in terms of mean estimation. The assumed situation and theoretical derivation are in the hand-written file.  
+
+```{r message = FALSE, warning=FALSE}
+library(purrr)
+library(ggplot2)
+library(tidyverse)
+mu.true = 2.4
+```
+
+### 1. Checking the convexity of log likelihood function
+
+First, since maximum likelihood estimators for both cases are not in closed-form, we check the concavity of the log-likelihood function in advance. Furthermore, since a closed-form solution is unavailable, we obtain MLE values using the Newton-Raphson method.
+
+```{r}
+z = floor(rnorm(mu.true, 1))
+l.mu.ftn = function(mu, sample){
+   return(sum(log(pnorm(z+1-mu)-pnorm(z-mu))))
+}
+mu = seq(-10, 10, length.out = 2000)
+l.mu = map_dbl(mu, function(y){l.mu.ftn(y, z)})
+plot(mu, l.mu)
+abline(v = mu[which.max(l.mu)], col=2)
+title("log likelihood - mu graph")
+```
+
+### 2. Defining the function that finds the solution using Newton-Raphson method
+
+Next, We build a function that calculates the value of MLE using the Newton-Raphson method. Here, `mu.start` denotes the starting point of Newton-Raphson iteration, `delta` the step size, `thres` the threshold to finalize the iteration, `sample` the observed samples, and `resol` the resolution, possible minimal difference between observed values. Here, `resol` value would be `0.1` or `1`.
+
+```{r}
+mu.NR = function(mu.start, delta, thres, sample, resol){
+   n = length(sample)
+   mu.now = mu.start
+   deriv = 1
+   while(deriv*delta > thres){
+      deriv = sum(
+         (-dnorm(sample+resol-mu.now)+dnorm(sample-mu.now)) / 
+            (pnorm(sample+resol-mu.now)-pnorm(sample-mu.now))
+      )
+      mu.now = mu.now + deriv*delta
+   }
+   return(mu.now)
+}
+```
+
+### 3. Iteration
+
+For the given iteration numbers (n), We compare the relative efficiency of the estimator in each case. Subsequently, We estimate the variance using bootstrap methods, respectively.
+
+```{r}
+M = 1000
+n = c(5, 10, 20, 50, 100, 200, 500)
+```
+
+
+```{r}
+set.seed(1)
+mu.result.int <- map_dbl(n, function(n){
+   result <- replicate(M, {
+      z = floor(rnorm(n, mu.true, 1))
+      mu0 = mean(z) + 0.5
+      mu.NR(mu0, 0.01, 1e-10, z, resol = 1)})
+   var(result)
+})
+
+mu.result.1st <- map_dbl(n, function(n){
+   result <- replicate(M, {
+      z = floor(10*rnorm(n, mu.true, 1))/10
+      mu0 = mean(z) + 0.5
+      mu.NR(mu0, 0.01, 1e-10, z, resol = 0.1)})
+   var(result)
+})
+```
+
+### 4. Result Comparison
+
+Finally, we compare the variance and relative efficiency of both estimators with the ideal estimator. 
+
+```{r}
+data.graph = data.frame(cbind(n, 
+                              lower.bound = 1/n,
+                              integer = mu.result.int, 
+                              first = mu.result.1st
+                              )) %>%
+   pivot_longer(cols = c(integer, first, lower.bound), 
+                names_to = "information", 
+                values_to = "variance")
+
+ggplot(data.graph) +
+   geom_point(aes(x=log(n), y = variance, color = information))+
+   geom_line(aes(x=log(n), y = variance, color = information), lwd=1)+
+   labs(title = "Estimated variances for both information types",
+        subtitle = "blue line denotes Cramer-Rao bound")
+
+
+data.ratio.graph <- data.frame(cbind(n, 
+                 lower.bound = 1/n,
+                 RE.integer = 1/n/mu.result.int, 
+                 RE.first = 1/n/mu.result.1st
+                 )) %>%
+   pivot_longer(cols = c(RE.integer, RE.first), 
+                names_to = "information", 
+                values_to = "Relative Efficiency")
+
+ggplot(data.ratio.graph) +
+   geom_point(aes(x=log(n), y = `Relative Efficiency`, color = information), size=2)+
+   geom_line(aes(x=log(n), y = `Relative Efficiency`, color = information), lwd=1) +
+   geom_abline(intercept = 1, slope = 0, lwd = 2) +
+   labs(title = "Relative efficiencies for both information types",
+        subtitle = "black horizontal line denotes Cramer-Rao bound")
+   
+```
+
+From the graph, we can check the relative efficiency according to sample size and available information. Relative efficiency close to 1 implies a small amount of information loss.
