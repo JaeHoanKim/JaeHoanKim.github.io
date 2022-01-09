@@ -11,7 +11,7 @@ toc: false
 
 ### Loss of information
 
-It is a [short report](https://jaehoankim.github.io/assets/Loss_of_information/Loss_of_information.pdf) about quantifying the loss of information while estimating the parameter.
+Here is a [short report](https://jaehoankim.github.io/assets/Loss_of_information/Loss_of_information.pdf) about quantifying the loss of information while estimating the parameter. This is in an extension of *Mathematical Statistics 2* tutoring.
 ### Indoor Climbing
 
 Will be uploaded soon!
