@@ -7,7 +7,6 @@ toc: false
 
 ### Cambodia camp, Aug. 2016
 
-<iframe src="https://drive.google.com/file/d/1qrKb5L4pVyIx5bwU_ELYKwy6dEK1LlQk/preview" width="640" height="480" allow="autoplay"></iframe>
 {% include video id="1qrKb5L4pVyIx5bwU_ELYKwy6dEK1LlQk" provider="google-drive" %}
 
 
