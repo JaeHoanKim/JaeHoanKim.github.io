@@ -50,7 +50,7 @@ toc: false
  
 <font size = "3">
 - Merit–based scholarship (USD 6K per year) <br />
-- Nominated as the representative of the Department of Engineering at SNU
+- Nominated as <strong>the representative of the Department of Engineering at SNU </strong>
 
 </font></li>
 
