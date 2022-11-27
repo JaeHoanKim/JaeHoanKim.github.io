@@ -7,53 +7,53 @@ toc: false
 
 ## Awards
 
+University Mathematics Competition, *Korean Mathematical Society*
+
+-   1st place, grand prize, 2020 (Awarded \$1,000)
+-   2nd place, gold prize, 2019
+
+Korean Mathematics Competition, *Korean Society of Mathematical Education*
+
+-   1st place, grand prize, 2015
+
 <ul>
-	<li>39<sup>th</sup> University Students Contest of Mathematics <br />
-	
-	<font size = "2"> <em> Korean Mathematical Society</em>, Dec. 2020</font> <br />
 
-	<font size = "3"> <strong>Grand Prize (1<sup>st</sup> place)</strong></font></li> 
-
-	<li>38<sup>th</sup> University Students Contest of Mathematics <br />
-	
-	<font size = "2"> <em> Korean Mathematical Society</em>, Dec. 2019</font> <br />
-	
-	<font size = "3"> <strong>Gold Prize (2<sup>nd</sup> place)</strong></font></li> 
-
-	<li>31<sup>th</sup> Korean Mathematics Competition <br />
-	
-	<font size = "2"> <em> Korean Society of Mathematical Education</em>, Aug. 2015</font> <br />
-	
-	<font size = "3"> <strong>Grand Prize (1<sup>st</sup> place)</strong></font></li>
-	
-</ul>
+<li>
 
 ## Honors
 
 <ul>
- <li>SNU Engineering Honor Society (STEM) <br />
- 
- <em><font size = "2"> Seoul National University </font></em><br />
- 
- <font size = "3">- Used to be Recruiting chief, currently a member of STEM</font></li>
 
- <li>Young Engineer’s Honor Society <br />
- 
+<li>
+
+SNU Engineering Honor Society (STEM) <br />
+
+<em><font size = "2"> Seoul National University </font></em><br />
+
+<font size = "3">- Used to be Recruiting chief, currently a member of STEM</font>
+
+</li>
+
+<li>
+
+Young Engineer's Honor Society <br />
+
 <em><font size = "2"> The National Academy of Engineering of Korea </font></em><br />
- 
-<font size = "3">- Currently Deputy head in Strategy & Planning 1 Department</font></li>
 
- <li>Hyunsong Scholarship <br />
+<font size = "3">- Currently Deputy head in Strategy & Planning 1 Department</font>
 
- <em><font size = "2"> Hyunsong Education & Culture Foundation </font></em><br />
- 
- 
-<font size = "3">
-- Merit–based scholarship (USD 6K per year) <br />
-- Nominated as <strong>the representative of the Department of Engineering at SNU </strong>
+</li>
 
-</font></li>
+<li>
+
+Hyunsong Scholarship <br />
+
+<em><font size = "2"> Hyunsong Education & Culture Foundation </font></em><br />
+
+<font size = "3"> - Merit--based scholarship (USD 6K per year) <br /> - Nominated as <strong>the representative of the Department of Engineering at SNU </strong>
+
+</font>
+
+</li>
 
 </ul>
-
-
