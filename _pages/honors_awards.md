@@ -16,44 +16,19 @@ Korean Mathematics Competition, *Korean Society of Mathematical Education*
 
 -   1st place, grand prize, 2015
 
-<ul>
-
-<li>
-
 ## Honors
 
-<ul>
+Overseas Ph.D. Scholarship, *Yongwoon Scholarship Foundation*
 
-<li>
+-   Merit-based scholarship for promising Ph.D. students studying out of Korea (USD 25,000 \$)
 
-SNU Engineering Honor Society (STEM) <br />
+-   Selected as one of four recipients in 2022
 
-<em><font size = "2"> Seoul National University </font></em><br />
+Young Engineer\'s Honor Society, *National Academy of Engineering of Korea*
+SNU Engineering Honor Society (STEM), *College of Engineering, SNU*
 
-<font size = "3">- Used to be Recruiting chief, currently a member of STEM</font>
+Merit-Based Scholarship, *Hyunsong Educational & Cultural Foundation*
 
-</li>
+-   Merit-based scholarship for undergraduate student (USD 6,000 \$ per year)
 
-<li>
-
-Young Engineer's Honor Society <br />
-
-<em><font size = "2"> The National Academy of Engineering of Korea </font></em><br />
-
-<font size = "3">- Currently Deputy head in Strategy & Planning 1 Department</font>
-
-</li>
-
-<li>
-
-Hyunsong Scholarship <br />
-
-<em><font size = "2"> Hyunsong Education & Culture Foundation </font></em><br />
-
-<font size = "3"> - Merit--based scholarship (USD 6K per year) <br /> - Nominated as <strong>the representative of the Department of Engineering at SNU </strong>
-
-</font>
-
-</li>
-
-</ul>
+-   Nominated as the representative of the Department of Engineering
