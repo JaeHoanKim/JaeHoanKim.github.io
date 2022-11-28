@@ -25,6 +25,7 @@ toc: false
 -   Selected as one of four recipients in 2022
 
 **Young Engineer\'s Honor Society**, *National Academy of Engineering of Korea*
+
 **SNU Engineering Honor Society (STEM)**, *College of Engineering, SNU*
 
 **Merit-Based Scholarship**, *Hyunsong Educational & Cultural Foundation*
