@@ -7,7 +7,7 @@ toc: false
 
 ## Awards
 
-<font size = "3">
+<font size = "3" markdown = "1">
 
 
 **University Mathematics Competition**, *Korean Mathematical Society*
@@ -24,7 +24,7 @@ toc: false
 
 ## Honors
 
-<font size = "3">
+<font size = "3" markdown = "1">
 
 
 **Overseas Ph.D. Scholarship**, *Yongwoon Scholarship Foundation*
