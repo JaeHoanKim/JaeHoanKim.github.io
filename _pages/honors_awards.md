@@ -7,6 +7,8 @@ toc: false
 
 ## Awards
 
+<font size = "3">
+
 **University Mathematics Competition**, *Korean Mathematical Society*
 
 -   1st place, grand prize, 2020 (Awarded \$1,000)
@@ -16,7 +18,11 @@ toc: false
 
 -   1st place, grand prize, 2015
 
+</font>
+
 ## Honors
+
+<font size = "3">
 
 **Overseas Ph.D. Scholarship**, *Yongwoon Scholarship Foundation*
 
@@ -24,7 +30,7 @@ toc: false
 
 -   Selected as one of four recipients in 2022
 
-**Young Engineer\'s Honor Society**, *National Academy of Engineering of Korea*
+**Young Engineer's Honor Society**, *National Academy of Engineering of Korea*
 
 **SNU Engineering Honor Society (STEM)**, *College of Engineering, SNU*
 
@@ -33,3 +39,5 @@ toc: false
 -   Merit-based scholarship for undergraduate student (USD 6,000 \$ per year)
 
 -   Nominated as the representative of the Department of Engineering
+
+</font>
