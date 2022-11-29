@@ -10,7 +10,7 @@ toc: false
 <font size = "3">
 
 1.  <b>Jaehoan Kim</b>, Jaeyong lee. Identifiability of covariance kernels in the Gaussian process regression model. <i>The Korean Data & Information Science Society</i>, 32(6), 1373-1392.<a href="https://arxiv.org/abs/2108.04715">[Full text]</a>
-</br>
+<br></br>
 2.  <b>Jaehoan Kim</b>, Hoyong Park, and Junyong Park, High dimensional classification rules with shrinkage estimators of covariance matrix and mean vector. <i>Preprint</i>. <a href="https://arxiv.org/abs/2211.15063">[Full text]</a>
 
 </font>
@@ -19,6 +19,6 @@ toc: false
 
 <font size = "3">
 
-3.  <em>Jaehoan Kim</em>, Debdeep Pati. Scalable and optimal Gaussian process regression using lattice extrapolation.
+3.  <b>Jaehoan Kim</b>, Debdeep Pati. Scalable and optimal Gaussian process regression using lattice extrapolation.
 
 </font>
