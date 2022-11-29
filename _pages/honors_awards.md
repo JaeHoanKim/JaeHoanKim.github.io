@@ -9,6 +9,7 @@ toc: false
 
 <font size = "3">
 
+
 **University Mathematics Competition**, *Korean Mathematical Society*
 
 -   1st place, grand prize, 2020 (Awarded \$1,000)
@@ -18,11 +19,13 @@ toc: false
 
 -   1st place, grand prize, 2015
 
+
 </font>
 
 ## Honors
 
 <font size = "3">
+
 
 **Overseas Ph.D. Scholarship**, *Yongwoon Scholarship Foundation*
 
@@ -39,5 +42,6 @@ toc: false
 -   Merit-based scholarship for undergraduate student (USD 6,000 \$ per year)
 
 -   Nominated as the representative of the Department of Engineering
+
 
 </font>
