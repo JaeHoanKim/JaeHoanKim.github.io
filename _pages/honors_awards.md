@@ -7,41 +7,38 @@ toc: false
 
 ## Awards
 
-<sub>
+<font size = "3">
 
+<b>University Mathematics Competition</b>, <i>Korean Mathematical Society</i> <br>
 
-**University Mathematics Competition**, *Korean Mathematical Society*
+-   1st place, grand prize, 2020 (Awarded USD 1,000) <br>
+-   2nd place, gold prize, 2019 <br>
 
--   1st place, grand prize, 2020 (Awarded \$1,000)
--   2nd place, gold prize, 2019
+<b>Korean Mathematics Competition</b>, <i>Korean Society of Mathematical Education</i> <br>
 
-**Korean Mathematics Competition**, *Korean Society of Mathematical Education*
+-   1st place, grand prize, 2015 <br>
 
--   1st place, grand prize, 2015
-
-
-</sub>
+</font>
 
 ## Honors
 
 <font size = "3" markdown = "1">
 
 
-**Overseas Ph.D. Scholarship**, *Yongwoon Scholarship Foundation*
+<b>Overseas Ph.D. Scholarship</b>, <i>Yongwoon Scholarship Foundation</i> <br>
 
--   Merit-based scholarship for promising Ph.D. students studying out of Korea (USD 25,000 \$)
+-   Merit-based scholarship for promising Ph.D. students studying out of Korea (USD 25,000) <br>
 
--   Selected as one of four recipients in 2022
+-   Selected as one of four recipients in 2022 <br>
 
-**Young Engineer's Honor Society**, *National Academy of Engineering of Korea*
+<b>Young Engineer's Honor Society</b>, <i>National Academy of Engineering of Korea</i> <br>
 
-**SNU Engineering Honor Society (STEM)**, *College of Engineering, SNU*
+<b>SNU Engineering Honor Society (STEM)</b>, <i>College of Engineering, SNU</i> <br>
 
-**Merit-Based Scholarship**, *Hyunsong Educational & Cultural Foundation*
+<b>Merit-Based Scholarship</b>, <i>Hyunsong Educational & Cultural Foundation</i> <br>
 
--   Merit-based scholarship for undergraduate student (USD 6,000 \$ per year)
+-   Merit-based scholarship for undergraduate student (USD 6,000 per year) <br>
 
--   Nominated as the representative of the Department of Engineering
-
+-   Nominated as the representative of the Department of Engineering <br>
 
 </font>
