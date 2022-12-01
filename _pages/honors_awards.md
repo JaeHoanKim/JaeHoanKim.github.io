@@ -7,7 +7,7 @@ toc: false
 
 ## Awards
 
-<font size = "3" markdown = "1">
+<sub>
 
 
 **University Mathematics Competition**, *Korean Mathematical Society*
@@ -20,7 +20,7 @@ toc: false
 -   1st place, grand prize, 2015
 
 
-</font>
+</sub>
 
 ## Honors
 
