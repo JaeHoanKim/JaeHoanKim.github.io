@@ -5,20 +5,20 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: false
 ---
 
-### Cambodia camp, Aug. 2016
+-   **Fast Multivariate Gaussian distribution sampling** - STAT 600: Statistical Computing Final Project, *Texas A&M University*
 
-{% include video id="1qrKb5L4pVyIx5bwU_ELYKwy6dEK1LlQk" provider="google-drive" %}
-### Loss of information
+    -   Term project
 
-Here is a [short report](https://jaehoankim.github.io/assets/Loss_of_information/Loss_of_information.pdf) about quantifying the loss of information while estimating the parameter. This is in an extension of *Mathematical Statistics 2* tutoring.
-### Indoor Climbing
+-   **High-dimensional Linear discriminant rules** - Research Internship, *Seoul National University*
 
-In Oslo, Norway!
+    -   
 
-{% include video id="1VyW4ndVoyZGOoD81f9MNoF4E9_iw_4tL" provider="google-drive" %}
+-   KBrainLab
 
-{% include video id="1HGNohCYO4x07tjshJYIxG_yE6HCNAfOZ" provider="google-drive" %}
+-   Analysis on COVID-19 government policies (Social distancing) in Korea
 
-### SNU Buddy
+-   **AI Tech Play**
 
-Will be uploaded soon!
+-   **Identifiability of Covariance Kernels in Gaussian Process regression** - Research Internship, *Seoul National University*
+
+-   **Xcorps**, Practical Issue Research Contest, <em>Seoul National University</em>
