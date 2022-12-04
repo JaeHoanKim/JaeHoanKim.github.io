@@ -5,12 +5,12 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: false
 ---
 
-<font size = "3">
+<font size = "2.7">
 <ul>
 <li><b>Rpackage - MVToep</b>, Faster Multivariate Gaussian sampling under Toeplitz covariance </li>
    <ul>
       <li>Improve the sampling speed of multivariate normal distribution using fast Fourier transform (FFT), referring to the algorithm from <a href = "https://www.jstor.org/stable/1390903#metadata_info_tab_contents">[Wood and Chan (1994)]</a> </li>
-      <li>Currently developing <a href = "https://github.com/JaeHoanKim/MVToep">[Github]</a></li>
+      <li>Currently under developing <a href = "https://github.com/JaeHoanKim/MVToep">[Github]</a></li>
    </ul>
 
 
