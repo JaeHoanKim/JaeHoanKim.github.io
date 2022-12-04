@@ -14,7 +14,7 @@ classes: wide
 
 <ul>
 
-<li>Improve the sampling speed of multivariate normal distribution using fast Fourier transform (FFT), referring to the algorithm from <a href = "https://www.jstor.org/stable/1390903#metadata_info_tab_contents">[Wood and Chan (1994)]</a></li>
+<li>Improve the sampling speed of multivariate normal distribution using fast Fourier transform (FFT), referring to the algorithm from Wood and Chan (1994)
 
 <li>Currently under developing <a href = "https://github.com/JaeHoanKim/MVToep">[Github]</a></li>
 
