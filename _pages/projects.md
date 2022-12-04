@@ -7,9 +7,12 @@ toc: false
 
 <font size = "3">
 <ul>
-<li><b>Fast Multivariate Gaussian distribution sampling</b> - STAT 600: Statistical Computing Final Project, <em>Texas A&M University</em></li>
+<li><b>Rpackage - MVToep</b>, Faster Multivariate Gaussian sampling under Toeplitz covariance </li>
+   <ul>
+      <li>Improve the sampling speed of multivariate normal distribution using fast Fourier transform (FFT), referring to the algorithm from <a href = "https://www.jstor.org/stable/1390903#metadata_info_tab_contents">[Wood and Chan (1994)]</a> </li>
+      <li>Currently developing <a href = "https://github.com/JaeHoanKim/MVToep">[Github]</a></li>
+   </ul>
 
-    -   Term project
 
 <li><b>High-dimensional Linear discriminant rules</b> - Research Internship, <em>Seoul National University </em> </li>
 
