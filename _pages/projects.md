@@ -21,6 +21,10 @@ toc: false
 
 <li><b>High-dimensional Linear discriminant rules</b></li>
 
+   <ul>
+   <li>See <a href = "https://jaehoankim.github.io/publications/">[Publication]</a>.</li>
+   </ul>
+
 <li><b>Analysis on COVID-19 government policies (Social distancing) in Korea </b></li>
 
 <ul>
@@ -68,7 +72,9 @@ toc: false
 </ul>
 
 <li><b>Identifiability of Covariance Kernels in Gaussian Process regression</b></li>
-
+   <ul>
+   <li>See <a href = "https://jaehoankim.github.io/publications/">[Publication]</a>.</li>
+   </ul>
 <li>
 
 <b>Xcorps</b>, <em>Practical Issue Research Contest, Seoul National University</em>
