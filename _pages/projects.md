@@ -22,14 +22,14 @@ toc: false
 <li><b>High-dimensional Linear discriminant rules</b></li>
 
    <ul>
-   <li>See <a href = "https://jaehoankim.github.io/publications/">[Publication]</a>.</li>
+   <li>See <a href = "https://jaehoankim.github.io/publications/">[Publications]</a>.</li>
    </ul>
 
-<li><b>Analysis on COVID-19 government policies (Social distancing) in Korea </b></li>
+<li><b>Analysis on COVID-19 government policies (social distancing) in Korea </b></li>
 
 <ul>
 
-<li>Investigated the validity of COVID-19 government policies (Social distancing) in Korea</li>
+<li>Investigated the validity of COVID-19 government policies, especially the social distancing in Korea</li>
 
 <li>Split the confirmed cases into group infection and individual infection by crawling the data from KDCA (Korea Disease Control and Prevention Agency)</li>
 
@@ -49,7 +49,7 @@ toc: false
 
 </ul>
 
-<li><b>Fluid dynamic analysis of ping-pong ball trajectory</b></li>, <em>thesis paper for mechanical engineering, SNU</em>
+<li><b>Fluid dynamic analysis of ping-pong ball trajectory</b>, <em>thesis paper for mechanical engineering, SNU</em></li>
    <ul>
    <li> Achieved 10X accuracy in trajectory prediction by considering the lift force and Drag force in tandem with the gravity </li><a href = "https://jaehoankim.github.io/assets/Thesis_JaehoanKim.pdf">[Thesis paper (written in Korean)]</a></li>
    
@@ -73,7 +73,7 @@ toc: false
 
 <li><b>Identifiability of Covariance Kernels in Gaussian Process regression</b></li>
    <ul>
-   <li>See <a href = "https://jaehoankim.github.io/publications/">[Publication]</a>.</li>
+   <li>See <a href = "https://jaehoankim.github.io/publications/">[Publications]</a>.</li>
    </ul>
 <li>
 
