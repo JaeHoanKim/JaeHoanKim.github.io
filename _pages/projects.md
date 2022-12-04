@@ -20,11 +20,7 @@ classes: wide
 
 </ul>
 
-<li><b>High-dimensional Linear discriminant rules</b></li>
-
-   <ul>
-   <li>See <a href = "https://jaehoankim.github.io/publications/">[Publications]</a>.</li>
-   </ul>
+<li><b><a href = "https://arxiv.org/abs/2211.15063">[High-dimensional Linear discriminant rules]</a></b></li>
 
 <li><b>Analysis on COVID-19 government policies (social distancing) in Korea </b></li>
 
@@ -72,10 +68,8 @@ classes: wide
 
 </ul>
 
-<li><b>Identifiability of Covariance Kernels in Gaussian Process regression</b></li>
-   <ul>
-   <li>See <a href = "https://jaehoankim.github.io/publications/">[Publications]</a>.</li>
-   </ul>
+   <li><b><a href = "https://arxiv.org/abs/2108.04715">[Identifiability of Covariance Kernels in Gaussian Process regression]</a></b></li>
+   
 <li>
 
 <b>Xcorps</b>, <em>Practical Issue Research Contest, Seoul National University</em>
