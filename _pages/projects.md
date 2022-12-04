@@ -49,7 +49,7 @@ toc: false
 
 </ul>
 
-<li><b>Fluid dynamic analysis of ping-pong ball trajectory</b>, <em>thesis paper for mechanical engineering, SNU</em></li>
+<li><b>Fluid dynamic analysis of ping-pong ball trajectory</b>, <em>thesis paper in Mechanical engineering, SNU</em></li>
    <ul>
    <li> Achieved 10X accuracy in trajectory prediction by considering the lift force and Drag force in tandem with the gravity </li><a href = "https://jaehoankim.github.io/assets/Thesis_JaehoanKim.pdf">[Thesis paper (written in Korean)]</a></li>
    
