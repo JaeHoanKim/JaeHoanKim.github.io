@@ -5,7 +5,7 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: false
 ---
 
-<font size = "3>
+<font size = "3">
 -   **Fast Multivariate Gaussian distribution sampling** - STAT 600: Statistical Computing Final Project, *Texas A&M University*
 
     -   Term project
