@@ -16,7 +16,7 @@ toc: false
 
 <li><b>High-dimensional Linear discriminant rules</b> - Research Internship, <em>Seoul National University </em> </li>
 
-<li> Analysis on COVID-19 government policies (Social distancing) in Korea </li>
+<li><b>Analysis on COVID-19 government policies (Social distancing) in Korea </b></li>
    <ul>
     <li>  Investigated the validity of COVID-19 government policies (Social distancing) in Korea </li>
     
@@ -26,7 +26,12 @@ toc: false
     <a href = "https://jaehoankim.github.io/assets/TSA_final_Korean.pdf">[final report (written in Korean)]</a></li>
     
    </ul>
-<li>  <b>KBrainLab</b> </li>
+<li>  <b>KBrainLab</b>, <em>a startup provided a Korean lottery number recommendation service</em> </li>
+   <ul>
+   <li>Developed a lottery number recommendation algorithm using graph theory that improved the expected value of the customers by 9%, ensuring 100% of winning the high–rank lottery in a group aspect</li>
+   <li>Substantiated the effectiveness of the algorithm with nonparametric testing methods</li>
+   <li>Took an initiative of founding as a Chief Technical Officer / Co-founder</li>
+   </ul>
 
 <li>  <b>AI Tech Play</b>, <em> AI education brand initially funded by Knowledge AI (KAIT) Foundation based in Boston</em> </li>
    <ul>
