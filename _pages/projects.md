@@ -5,7 +5,7 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: false
 ---
 
-<font size = "2.7">
+<font size = "2.8">
 <ul>
 <li><b>Rpackage - MVToep</b>, Faster Multivariate Gaussian sampling under Toeplitz covariance </li>
    <ul>

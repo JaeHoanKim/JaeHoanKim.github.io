@@ -7,7 +7,7 @@ toc: false
 
 ## Publications
 
-<font size = "2.7">
+<font size = "2.8">
 
 1.  <b>Jaehoan Kim</b>, Jaeyong lee. Identifiability of covariance kernels in the Gaussian process regression model. <i>The Korean Data & Information Science Society</i>, 32(6), 1373-1392. <a href="https://arxiv.org/abs/2108.04715">[Full text]</a>
 <br>
