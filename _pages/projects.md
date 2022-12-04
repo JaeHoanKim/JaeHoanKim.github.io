@@ -28,9 +28,7 @@ toc: false
    </ul>
 <li>  <b>KBrainLab</b> </li>
 
-<li>  <b>AI Tech Play</b> </li>
-<br>
-   <em>AI Tech Play is an AI Educations Brand initially funded by Knowledge AI (KAIT) Foundation based in Boston. Through forming strategic partnerships with organizations across industry and academia, we are delivering Free AI Coding Educations based on MIT Beaver Work's Code Materials.</em>
+<li>  <b>AI Tech Play</b>, <em> AI education brand initially funded by Knowledge AI (KAIT) Foundation based in Boston</em> </li>
    <ul>
    <li> Led the Technology Team to deliver free AI education to 200+ middle school students struck by COVID-19 </li>
    <li> Created a coding education booklet based on the autonomous RACECAR code materials from <b>MIT Lincoln Lab</b>. </li>
