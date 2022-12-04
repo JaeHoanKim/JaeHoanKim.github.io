@@ -46,10 +46,12 @@ toc: false
 </ul>
 
 <li><b>Fluid dynamic analysis of ping-pong ball trajectory</b></li>, <em>thesis paper for mechanical engineering, SNU</em>
-<ul>
-<li> Predicted the ping-pong ball trajectory by calculating the lift force and Drag force</li>
-<li> Extracted the position of ping-pong ball and angular velocity by image processing <a href = "https://github.com/JaeHoanKim/Pingpong_analysis">[Github]</a></li>
-</ul>
+   <ul>
+   <li> Achieved 10X accuracy in trajectory prediction by considering the lift force and Drag force in tandem with the gravity </li><a href = "https://jaehoankim.github.io/assets/Thesis_JaehoanKim.pdf">[Thesis paper (written in Korean)]</a></li>
+   
+   
+   <li> Extracted the position of ping-pong ball and angular velocity by image processing <a href = "https://github.com/JaeHoanKim/Pingpong_analysis">[Github]</a></li>
+   </ul>
 
 <li><b>AI Tech Play</b>, <em> AI education brand initially funded by Knowledge AI (KAIT) Foundation based in Boston</em></li>
 
