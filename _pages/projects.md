@@ -48,7 +48,7 @@ classes: wide
 
 <li><b>Fluid dynamic analysis of ping-pong ball trajectory</b>, <em>thesis paper in Mechanical engineering, SNU</em></li>
    <ul>
-   <li> Achieved 10X accuracy in trajectory prediction by considering the lift force and Drag force in tandem with the gravity <a href = "https://jaehoankim.github.io/assets/Thesis_JaehoanKim.pdf">[Thesis paper (written in Korean)]</a></li>
+   <li> Reduced the error by 90% in trajectory prediction by considering the lift force and Drag force in tandem with the gravity <a href = "https://jaehoankim.github.io/assets/Thesis_JaehoanKim.pdf">[Thesis paper (written in Korean)]</a></li>
    
    
    <li> Extracted the position of ping-pong ball and angular velocity by image processing <a href = "https://github.com/JaeHoanKim/Pingpong_analysis">[Github]</a></li>
