@@ -10,13 +10,13 @@ classes: wide
 
 <ul>
 
-<li><b>Rpackage - MVToep</b>, <em>Faster Multivariate Gaussian sampling under Toeplitz covariance</em></li>
+<li><b>Rpackage - MVToep</b>, <em>Fast Multivariate Gaussian sampling under Toeplitz covariance</em></li>
 
 <ul>
 
-   <li>Improve the sampling speed of multivariate normal distribution using fast Fourier transform (FFT), referring to the algorithm from Wood and Chan (1994) </li>
-   
-   <li>Currently under developing <a href = "https://github.com/JaeHoanKim/MVToep">[Github]</a></li>
+<li>Improved the sampling speed of multivariate normal distribution using fast Fourier transform (FFT), referring to the algorithm from Wood and Chan (1994)</li>
+
+<li>Currently under developing <a href = "https://github.com/JaeHoanKim/MVToep">[Github]</a></li>
 
 </ul>
 
@@ -42,17 +42,19 @@ classes: wide
 
 <li>Substantiated the effectiveness of the algorithm with nonparametric testing methods</li>
 
-<li>Took an initiative of founding as a Chief Technical Officer / Co-founder</li>
+<li>Took the initiative of founding as a Chief Technical Officer / Co-founder</li>
 
 </ul>
 
 <li><b>Fluid dynamic analysis of ping-pong ball trajectory</b>, <em>thesis paper in Mechanical engineering, SNU</em></li>
-   <ul>
-   <li> Reduced the error by 90% in trajectory prediction by considering the lift force and Drag force in tandem with the gravity <a href = "https://jaehoankim.github.io/assets/Thesis_JaehoanKim.pdf">[Thesis paper (written in Korean)]</a></li>
-   
-   
-   <li> Extracted the position of ping-pong ball and angular velocity by image processing <a href = "https://github.com/JaeHoanKim/Pingpong_analysis">[Github]</a></li>
-   </ul>
+
+<ul>
+
+<li>Reduced the error by 90% in trajectory prediction by considering the lift force and Drag force in tandem with the gravity <a href = "https://jaehoankim.github.io/assets/Thesis_JaehoanKim.pdf">[Thesis paper (written in Korean)]</a></li>
+
+<li>Extracted the position of the ping-pong ball and angular velocity by image processing <a href = "https://github.com/JaeHoanKim/Pingpong_analysis">[Github]</a></li>
+
+</ul>
 
 <li><b>AI Tech Play</b>, <em> AI education brand initially funded by Knowledge AI (KAIT) Foundation based in Boston</em></li>
 
@@ -68,8 +70,8 @@ classes: wide
 
 </ul>
 
-   <li><b><a href = "https://arxiv.org/abs/2108.04715">[Identifiability of Covariance Kernels in Gaussian Process regression]</a></b></li>
-   
+<li><b><a href = "https://arxiv.org/abs/2108.04715">[Identifiability of Covariance Kernels in Gaussian Process regression]</a></b></li>
+
 <li>
 
 <b>Xcorps</b>, <em>Practical Issue Research Contest, Seoul National University</em>
