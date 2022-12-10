@@ -18,6 +18,15 @@ Graduate Teaching Assistant, <em>Texas A&M University</em>, Aug. 2022 - Dec. 202
 <font size = "3"> - Hosted weekly TA sessions and graded 10+ homework for 40+ students (graduate level statistics course) </font>
 </li>
 
+<li> 
+Regression Analysis and Lab.
+
+<font size = "2"> 
+(Course Number: 326.313) <br/>
+Undergraduate Tutor, <em>Seoul National University</em>, Mar. 2022 - Jun. 2022 </font> <br />
+
+<font size = "3"> - Hosted 10+ tutoring sessions in Regression Analysis and Lab., a requisite course for juniors </font>
+</li>
 
 <li> 
 Mathematical Statistics 2
