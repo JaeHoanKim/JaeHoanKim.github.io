@@ -11,12 +11,10 @@ toc: false
 
 ### Indoor Climbing
 
-In Oslo, Norway!
-
 {% include video id="1VyW4ndVoyZGOoD81f9MNoF4E9_iw_4tL" provider="google-drive" %}
 
 {% include video id="1HGNohCYO4x07tjshJYIxG_yE6HCNAfOZ" provider="google-drive" %}
 
-### SNU Buddy
+### Memories
 
 Will be uploaded soon!
