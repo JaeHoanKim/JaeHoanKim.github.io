@@ -11,9 +11,9 @@ toc: false
 
 ### Indoor Climbing
 
-{% include video id="1VyW4ndVoyZGOoD81f9MNoF4E9_iw_4tL" provider="google-drive" %}
+{% include video id="1PpXUSIK-jM7xnTMthSNyYfIDQ55tpGVo" provider="google-drive" %}
 
-{% include video id="1HGNohCYO4x07tjshJYIxG_yE6HCNAfOZ" provider="google-drive" %}
+{% include video id="1INSd07Elf1bCWcEtK90oD9BK-yzEANFG" provider="google-drive" %}
 
 ### Memories
 
