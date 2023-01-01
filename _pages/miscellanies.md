@@ -14,7 +14,3 @@ toc: false
 {% include video id="1PpXUSIK-jM7xnTMthSNyYfIDQ55tpGVo" provider="google-drive" %}
 
 {% include video id="1INSd07Elf1bCWcEtK90oD9BK-yzEANFG" provider="google-drive" %}
-
-### Memories
-
-Will be uploaded soon!
