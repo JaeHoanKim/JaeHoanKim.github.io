@@ -107,9 +107,9 @@ author:
   name             : "Jaehoan Kim"
   avatar           : "/assets/face.jpg"
     # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "1st year PhD student in Statistics <br/>at Texas A&M University"
-  location         : "College Station, TX"
-  email            : "k1mjh6561@tamu.edu"
+  bio              : "2nd year PhD student in Statistical Science <br/>at Duke University"
+  location         : "Durham, NC"
+  email            : "jaehoan.kim@duke.edu"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
